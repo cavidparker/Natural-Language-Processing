@@ -8,4 +8,4 @@
 - use [quoting = 3] for remove the (" ")
 
 ## Cleaning the text :
- - When we clean the text,we need a library called
+ - When we clean the text,we need a library called (re)
