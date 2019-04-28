@@ -11,4 +11,4 @@
  - When we clean the text,we need a library called (re)
     #### import re
     #### review = re.sub() 
- - sub is a function
+    - sub is a function
