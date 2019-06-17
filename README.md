@@ -1,5 +1,8 @@
 # Natural-Language-Processing :
 
+NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
+
+
 - CSV = Comma Separated Values.
 - TSV = Tab Separated Values.
 - (" ") Must be a problem of TSV file
